@@ -24,10 +24,10 @@ AgScores will produce results to inform climate scientists of the efficacy of cl
 
 # File naming
 ## Find out what the fileshare (i.e. basefolder) is for the project (AgScore), then paths will be 
-AgScoreBasefolder/working/zin005/python/ (etc. e.g. R, data, )
-AgScoreBasefolder/working/nav00a/python (etc.)
-AgScoreBasefolder/scripts (these are the latest published version of scripts for people to use)
-# We adopt a mini-convention where we go for more descriptive filenames wherever possible.
+    AgScoreBasefolder/working/zin005/python/ (etc. e.g. R, data, )
+    AgScoreBasefolder/working/nav00a/python (etc.)
+    AgScoreBasefolder/scripts (these are the latest published version of scripts for people to use)
+We adopt a mini-convention where we go for more descriptive filenames wherever possible.
 
 # Field and variable naming
 Longer, more descriptive names are better than shorter, non-descriptive names
