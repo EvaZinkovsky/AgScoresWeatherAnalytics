@@ -19,6 +19,8 @@ and
     Only one location will be used
       latitude=-35.99 & longitude=142.92, Birchip, Victoria
       https://dcdp.research.csiro.au/access-s?lat=-35.99&lon=142.92&format=csv&start=
+      
+      
 
 AgScores will produce results to inform climate scientists of the efficacy of climate predictions, from the point of view of Agricultural productivity (wheat yield potential). This work enables climate scientists to debug their climate models when their predicted wheat yield potential does not match the predicted wheat yield potential of APSIM + SILO.
 
