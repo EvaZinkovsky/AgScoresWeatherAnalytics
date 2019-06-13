@@ -1,14 +1,13 @@
 # AgScoresWeatherAnalytics
 also goes by the name of AgScores Ensemble Debugger
                                                        
-SILO © The State of Queensland 2019. The Queensland Government supports and encourages the distribution of its material.Unless otherwise noted, all copyright material available on or through this website is licensed under a Creative Commons Attribution 4.0 International licence (CC BY 4.0).
- 
-https://www.longpaddock.qld.gov.au/silo/about.html
+This project will produce visualisations of statistical comparisons between
 
-This project will produce visualisations of statistical comparisons between 
  - weather observation data provided by the State of Queensland (SILO database)
     SILO © The State of Queensland 2019. The Queensland Government supports and encourages the distribution of its material. Unless    
-    otherwise noted, all copyright material available on or through this website is licensed under a Creative Commons Attribution 4.0 International licence (CC BY 4.0).  
+    otherwise noted, all copyright material available on or through this website is licensed under a Creative Commons Attribution 4.0   
+    International licence (CC BY 4.0). 
+    https://www.longpaddock.qld.gov.au/silo/about.html
 
 and 
  - weather forecast data from the Bureau of Meteorology (ACCESS-S forecast model)
